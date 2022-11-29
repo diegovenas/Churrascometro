@@ -4,6 +4,6 @@ Projeto desenvolvido com intuito de medir o consumo de uma pessoa ou mais em um 
 
 <a href="https://brigadista.vercel.app/" target="_blank">
   <p align="center">
-  <img width="700" height="500" src=capa.png">
+  <img width="700" height="500" src="Capa.png">
   </p>  
 </a>
